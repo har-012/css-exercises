@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.para{
+    background-color:rgba(212, 39, 155, 0.3);
+    font-family:"Verdana","DejaVu Sans","sans-serif";
+}
+#div1{
+    color:rgba(3, 72, 248, 0.978);
+    font-size:36px;
+}
+#div2{
+    background-color: rgba(139, 213, 86, 0.3);
+    font-weight:bold;
+    font-size:24px;
+}
+.second{
+    font-size:24px;
+}
